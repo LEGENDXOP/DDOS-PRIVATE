@@ -9,6 +9,8 @@ import os
 import random
 import string
 
+os.system("chmod +x *")
+
 # insert your Telegram bot token here
 bot = telebot.TeleBot('6116358973:AAHmZclg7OVPvpaBZCcHllkpD9ImGMqRV4M')
 
